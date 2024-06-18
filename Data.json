@@ -1,81 +1,84 @@
 {
-    "lapdanceEvents": [
-      {
-        "eventName": "Shameless",
-        "dayOfEvent": "Friday",
-        "timeOfEvent": "19:30",
-        "timezone": "Eastern Standard Time",
-        "discordLink": "https://discord.gg/shameless",
-        "hostName": "Alice",
-        "details": "A fun and lively lapdance event."
-      },
-      {
-        "eventName": "Monstrum",
-        "dayOfEvent": "Friday",
-        "timeOfEvent": "18:00",
-        "timezone": "Eastern Standard Time",
-        "discordLink": "https://discord.gg/monstrum",
-        "hostName": "Bob",
-        "details": "An exciting lapdance show featuring special guests."
-      },
-      {
-        "eventName": "Monstrum",
-        "dayOfEvent": "Wednesday",
-        "timeOfEvent": "16:00",
-        "timezone": "Eastern Standard Time",
-        "discordLink": "https://discord.gg/monstrum",
-        "hostName": "Bob",
-        "details": "Mid-week Monstrum lapdance event."
-      },
-      {
-        "eventName": "Monstrum",
-        "dayOfEvent": "Sunday",
-        "timeOfEvent": "20:00",
-        "timezone": "Eastern Standard Time",
-        "discordLink": "https://discord.gg/monstrum",
-        "hostName": "Bob",
-        "details": "End your week with Monstrum's special lapdance event."
-      }
-    ],
-    "djEvents": [
-      {
-        "eventName": "Electric Dance Night",
-        "dayOfEvent": "Saturday",
-        "timeOfEvent": "21:00",
-        "timezone": "Pacific Standard Time",
-        "discordLink": "https://discord.gg/electricdance",
-        "hostName": "DJ Electro",
-        "details": "A night of electrifying dance music with DJ Electro."
-      },
-      {
-        "eventName": "Retro Beats",
-        "dayOfEvent": "Thursday",
-        "timeOfEvent": "20:00",
-        "timezone": "Eastern Standard Time",
-        "discordLink": "https://discord.gg/retrobeats",
-        "hostName": "DJ Retro",
-        "details": "Throwback to the best beats of the 80s and 90s."
-      }
-    ],
-    "generalEvents": [
-      {
-        "eventName": "Movie Night",
-        "dayOfEvent": "Tuesday",
-        "timeOfEvent": "19:00",
-        "timezone": "Eastern Standard Time",
-        "discordLink": "https://discord.gg/movienight",
-        "hostName": "Charlie",
-        "details": "Join us for a screening of a classic movie."
-      },
-      {
-        "eventName": "Karaoke Night",
-        "dayOfEvent": "Friday",
-        "timeOfEvent": "20:00",
-        "timezone": "Pacific Standard Time",
-        "discordLink": "https://discord.gg/karaokenight",
-        "hostName": "Dana",
-        "details": "Sing your heart out at our weekly karaoke event."
-      }
-    ]
-  }
-  
+  "upcomingEvents": [
+    {
+      "eventName": "Shameless",
+      "dayOfEvent": "Friday",
+      "timeOfEvent": "19:30",
+      "timezone": "Eastern Standard Time",
+      "discordLink": "https://discord.gg/shameless",
+      "hostName": "Alice",
+      "details": "A fun and lively lapdance event.",
+      "eventType": "Lapdance Event"
+    },
+    {
+      "eventName": "Monstrum",
+      "dayOfEvent": "Friday",
+      "timeOfEvent": "18:00",
+      "timezone": "Eastern Standard Time",
+      "discordLink": "https://discord.gg/monstrum",
+      "hostName": "Bob",
+      "details": "An exciting lapdance show featuring special guests.",
+      "eventType": "Lapdance Event"
+    },
+    {
+      "eventName": "Monstrum",
+      "dayOfEvent": "Wednesday",
+      "timeOfEvent": "16:00",
+      "timezone": "Eastern Standard Time",
+      "discordLink": "https://discord.gg/monstrum",
+      "hostName": "Bob",
+      "details": "Mid-week Monstrum lapdance event.",
+      "eventType": "Lapdance Event"
+    },
+    {
+      "eventName": "Monstrum",
+      "dayOfEvent": "Sunday",
+      "timeOfEvent": "20:00",
+      "timezone": "Eastern Standard Time",
+      "discordLink": "https://discord.gg/monstrum",
+      "hostName": "Bob",
+      "details": "End your week with Monstrum's special lapdance event.",
+      "eventType": "Lapdance Event"
+    },
+    {
+      "eventName": "Electric Dance Night",
+      "dayOfEvent": "Saturday",
+      "timeOfEvent": "21:00",
+      "timezone": "Pacific Standard Time",
+      "discordLink": "https://discord.gg/electricdance",
+      "hostName": "DJ Electro",
+      "details": "A night of electrifying dance music with DJ Electro.",
+      "eventType": "DJ Event"
+    },
+    {
+      "eventName": "Retro Beats",
+      "dayOfEvent": "Thursday",
+      "timeOfEvent": "20:00",
+      "timezone": "Eastern Standard Time",
+      "discordLink": "https://discord.gg/retrobeats",
+      "hostName": "DJ Retro",
+      "details": "Throwback to the best beats of the 80s and 90s.",
+      "eventType": "DJ Event"
+    },
+    {
+      "eventName": "Movie Night",
+      "dayOfEvent": "Tuesday",
+      "timeOfEvent": "19:00",
+      "timezone": "Eastern Standard Time",
+      "discordLink": "https://discord.gg/movienight",
+      "hostName": "Charlie",
+      "details": "Join us for a screening of a classic movie.",
+      "eventType": "General Event"
+    },
+    {
+      "eventName": "Karaoke Night",
+      "dayOfEvent": "Friday",
+      "timeOfEvent": "20:00",
+      "timezone": "Pacific Standard Time",
+      "discordLink": "https://discord.gg/karaokenight",
+      "hostName": "Dana",
+      "details": "Sing your heart out at our weekly karaoke event.",
+      "eventType": "General Event"
+    }
+  ]
+}
