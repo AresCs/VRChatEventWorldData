@@ -2,11 +2,11 @@
   "upcomingEvents": [
     {
       "eventName": "Shameless",
-      "dayOfEvent": "Friday",
+      "dayOfEvent": "Test",
       "timeOfEvent": "19:30",
       "timezone": "Eastern Standard Time",
       "discordLink": "https://discord.gg/shameless",
-      "hostName": "Alice",
+      "hostName": "Test",
       "details": "A fun and lively lapdance event.",
       "eventType": "Lapdance Event"
     },
