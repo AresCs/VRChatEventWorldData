@@ -2,11 +2,21 @@
   "upcomingEvents": [
     {
       "eventName": "Shameless",
-      "dayOfEvent": "Test",
+      "dayOfEvent": "Test123",
       "timeOfEvent": "19:30",
       "timezone": "Eastern Standard Time",
       "discordLink": "https://discord.gg/shameless",
-      "hostName": "Test",
+      "hostName": "Test123",
+      "details": "A fun and lively lapdance event.",
+      "eventType": "Lapdance Event"
+    },
+    {
+      "eventName": "Shameless",
+      "dayOfEvent": "Test123",
+      "timeOfEvent": "19:30",
+      "timezone": "Eastern Standard Time",
+      "discordLink": "https://discord.gg/shameless",
+      "hostName": "Test123",
       "details": "A fun and lively lapdance event.",
       "eventType": "Lapdance Event"
     },
