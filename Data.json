@@ -3,7 +3,8 @@
     {
       "eventName": "Shameless",
       "dayOfEvent": "Friday",
-      "timeOfEvent": "19:30",
+      "startTimeOfEvent": "19:30",
+      "endTimeOfEvent": "20:30",
       "timezone": "EST",
       "discordLink": "https://discord.gg/shameless",
       "hostName": "Vinnie",
@@ -13,72 +14,79 @@
     {
       "eventName": "Monstrum",
       "dayOfEvent": "Friday",
-      "timeOfEvent": "18:00",
+      "startTimeOfEvent": "18:00",
+      "endTimeOfEvent" : "19:00",
       "timezone": "EST",
       "discordLink": "https://discord.gg/monstrum",
-      "hostName": "Bob",
+      "hostName": "Brent",
       "details": "An exciting lapdance show featuring special guests.",
       "eventType": "Lapdance Event"
     },
     {
       "eventName": "Monstrum",
       "dayOfEvent": "Wednesday",
-      "timeOfEvent": "16:00",
+      "startTimeOfEvent": "16:00",
+      "endTimeOfEvent" : "17:00",
       "timezone": "EST",
       "discordLink": "https://discord.gg/monstrum",
-      "hostName": "Bob",
+      "hostName": "Brent",
       "details": "Mid-week Monstrum lapdance event.",
       "eventType": "Lapdance Event"
     },
     {
       "eventName": "Monstrum",
       "dayOfEvent": "Sunday",
-      "timeOfEvent": "20:00",
-      "timezone": "Eastern Standard Time",
+      "startTimeOfEvent": "20:00",
+      "endTimeOfEvent" : "21:00",
+      "timezone": "EST",
       "discordLink": "https://discord.gg/monstrum",
-      "hostName": "Bob",
+      "hostName": "Brent",
       "details": "End your week with Monstrum's special lapdance event.",
       "eventType": "Lapdance Event"
     },
     {
-      "eventName": "Electric Dance Night",
-      "dayOfEvent": "Saturday",
-      "timeOfEvent": "21:00",
-      "timezone": "Pacific Standard Time",
-      "discordLink": "https://discord.gg/electricdance",
-      "hostName": "DJ Electro",
-      "details": "A night of electrifying dance music with DJ Electro.",
-      "eventType": "DJ Event"
-    },
-    {
-      "eventName": "Retro Beats",
-      "dayOfEvent": "Thursday",
-      "timeOfEvent": "20:00",
-      "timezone": "Eastern Standard Time",
-      "discordLink": "https://discord.gg/retrobeats",
-      "hostName": "DJ Retro",
-      "details": "Throwback to the best beats of the 80s and 90s.",
-      "eventType": "DJ Event"
-    },
-    {
-      "eventName": "Movie Night",
-      "dayOfEvent": "Tuesday",
-      "timeOfEvent": "19:00",
-      "timezone": "Eastern Standard Time",
-      "discordLink": "https://discord.gg/movienight",
-      "hostName": "Charlie",
-      "details": "Join us for a screening of a classic movie.",
-      "eventType": "General Event"
-    },
-    {
-      "eventName": "Karaoke Night",
+      "eventName": "Burning Star",
       "dayOfEvent": "Friday",
-      "timeOfEvent": "20:00",
-      "timezone": "Pacific Standard Time",
-      "discordLink": "https://discord.gg/karaokenight",
-      "hostName": "Dana",
-      "details": "Sing your heart out at our weekly karaoke event.",
-      "eventType": "General Event"
+      "startTimeOfEvent": "19:00",
+      "endTimeOfEvent" : "20:30",
+      "timezone": "EST",
+      "discordLink": "https://discord.gg/monstrum",
+      "hostName": "Brent",
+      "details": "End your week with Monstrum's special lapdance event.",
+      "eventType": "Lapdance Event"
+    },
+    {
+      "eventName": "Society",
+      "dayOfEvent": "Friday",
+      "startTimeOfEvent": "21:00",
+      "endTimeOfEvent" : "22:00",
+      "timezone": "EST",
+      "discordLink": "https://discord.gg/monstrum",
+      "hostName": "Brent",
+      "details": "End your week with Monstrum's special lapdance event.",
+      "eventType": "Lapdance Event"
+    },
+    {
+      "eventName": "Society",
+      "dayOfEvent": "Friday",
+      "startTimeOfEvent": "21:00",
+      "endTimeOfEvent" : "22:00",
+      "timezone": "EST",
+      "discordLink": "https://discord.gg/monstrum",
+      "hostName": "Brent",
+      "details": "End your week with Monstrum's special lapdance event.",
+      "eventType": "Lapdance Event"
+    },
+    {
+      "eventName": "Sinful Dragon",
+      "dayOfEvent": "Friday",
+      "startTimeOfEvent": "21:00",
+      "endTimeOfEvent" : "23:00",
+      "timezone": "EST",
+      "discordLink": "https://discord.gg/monstrum",
+      "hostName": "Brent",
+      "details": "End your week with Monstrum's special lapdance event.",
+      "eventType": "Lapdance Event"
     }
   ]
 }
