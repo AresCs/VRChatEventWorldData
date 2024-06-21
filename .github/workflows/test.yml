@@ -25,12 +25,12 @@ jobs:
     
     - name: Update submodules
       run: |
-        git submodule update --remote --merge
+        git submodule update --remote --rebase
 
     - name: Run combine script
       run: python combine_json.py
     
-    - name: Debug Show contents of TestData.json
+    - name: Show contents of TestData.json
       run: cat TestData.json
     
     - name: Stage changes
@@ -38,12 +38,8 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add TestData.json
-
-    - name: Debug Show git status after staging
-      run: git status
-
-    - name: Debug Show git diff after staging
-      run: git diff --cached --name-only
+        git status
+        git diff --cached --name-only
 
     - name: Check for changes
       id: check_changes
