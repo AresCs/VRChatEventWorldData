@@ -11,12 +11,12 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4.1.7
+      uses: actions/checkout@v4
       with:
         submodules: true  # Ensure submodules are checked out
     
     - name: Set up Python
-      uses: actions/setup-python@v5.1.0
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
     
@@ -26,6 +26,12 @@ jobs:
     - name: Run combine script
       run: python combine_json.py
     
+    - name: Debug Show git status
+      run: git status
+
+    - name: Debug Show git diff
+      run: git diff --cached --name-only
+
     - name: Check for changes
       id: check_changes
       run: |
@@ -33,15 +39,10 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add TestData.json
         if git diff --cached --name-only | grep -q 'TestData.json'; then
-          echo "CHANGES_DETECTED=true" >> $GITHUB_ENV
-          echo "name=changes_detected::true" >> $GITHUB_OUTPUT
+          echo "changes_detected=true" >> $GITHUB_ENV
         else
-          echo "CHANGES_DETECTED=false" >> $GITHUB_ENV
-          echo "name=changes_detected::false" >> $GITHUB_OUTPUT
+          echo "changes_detected=false" >> $GITHUB_ENV
         fi
-
-    - name: Set changes_detected variable
-      run: echo "changes_detected=${{ steps.check_changes.outputs.changes_detected }}" >> $GITHUB_ENV
 
     - name: Commit and push changes
       if: env.changes_detected == 'true'
@@ -52,5 +53,5 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: No changes detected
-      if: env.changes_detected != 'false'
+      if: env.changes_detected == 'false'
       run: echo "There are no updates."
