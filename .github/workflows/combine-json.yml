@@ -32,7 +32,7 @@ jobs:
     - name: Check for changes
       id: check_changes
       run: |
-        if git diff --exit-code combined_data.json; then
+        if git diff --exit-code TestData.json; then
           echo "No changes detected" > $GITHUB_ENV
         else
           echo "Changes detected" > $GITHUB_ENV
@@ -43,7 +43,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add combined_data.json
+        git add TestData.json
         git commit -m 'Automated combine JSON files'
         git push
       env:
