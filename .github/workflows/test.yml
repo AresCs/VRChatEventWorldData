@@ -23,25 +23,31 @@ jobs:
     - name: Install dependencies
       run: python -m pip install --upgrade pip
     
+    - name: Update submodules
+      run: |
+        git submodule update --remote --merge
+
     - name: Run combine script
       run: python combine_json.py
-
+    
     - name: Debug Show contents of TestData.json
       run: cat TestData.json
     
-    - name: Debug Show git status
+    - name: Stage changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add TestData.json
+
+    - name: Debug Show git status after staging
       run: git status
 
-    - name: Debug Show git diff
+    - name: Debug Show git diff after staging
       run: git diff --cached --name-only
 
     - name: Check for changes
       id: check_changes
       run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add TestData.json
-        git diff --cached --name-only
         if git diff --cached --name-only | grep -q 'TestData.json'; then
           echo "changes_detected=true" >> $GITHUB_ENV
         else
