@@ -25,6 +25,9 @@ jobs:
     
     - name: Run combine script
       run: python combine_json.py
+
+    - name: Debug Show contents of TestData.json
+      run: cat TestData.json
     
     - name: Debug Show git status
       run: git status
@@ -38,6 +41,7 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add TestData.json
+        git diff --cached --name-only
         if git diff --cached --name-only | grep -q 'TestData.json'; then
           echo "changes_detected=true" >> $GITHUB_ENV
         else
