@@ -5,6 +5,8 @@ on:
     paths:
       - 'Shameless/**'
       - 'monstrum/**'
+  schedule:
+    - cron: '*/5 * * * *'  # Run every 5 minutes
 
 jobs:
   test-job:
@@ -13,6 +15,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        submodules: true
 
     - name: Display message
       run: echo "Workflow triggered!"
