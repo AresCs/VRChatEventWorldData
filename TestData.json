@@ -1,7 +1,7 @@
 {
     "upcomingEvents": [
         {
-            "eventName": "Shameless",
+            "eventName": "Shameless - Test",
             "dayOfEvent": "Friday",
             "startTimeOfEvent": "19:30",
             "endTimeOfEvent": "20:30",
@@ -19,22 +19,22 @@
             "timezone": "EST",
             "discordLink": "https://discord.gg/monstrum",
             "hostName": "Brent",
-            "details": "Test",
+            "details": "Details",
             "eventType": "Lapdance Event"
         },
         {
-            "eventName": "Monstrum",
+            "eventName": "Monstrum - Test",
             "dayOfEvent": "Wednesday",
             "startTimeOfEvent": "16:00",
             "endTimeOfEvent": "17:00",
             "timezone": "EST",
             "discordLink": "https://discord.gg/monstrum",
             "hostName": "Brent",
-            "details": "Mid-week Monstrum lapdance event.",
+            "details": "Test",
             "eventType": "Lapdance Event"
         },
         {
-            "eventName": "Monstrum",
+            "eventName": "Monstrum - Test",
             "dayOfEvent": "Sunday",
             "startTimeOfEvent": "20:00",
             "endTimeOfEvent": "21:00",
