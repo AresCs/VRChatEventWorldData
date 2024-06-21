@@ -1,0 +1,3 @@
+[submodule "Shameless"]
+	path = Shameless
+	url = https://github.com/AresCs/ShamelessEventData.git
