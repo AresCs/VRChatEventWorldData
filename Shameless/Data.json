@@ -1,0 +1,15 @@
+{
+    "upcomingEvents": [
+      {
+        "eventName": "Shameless",
+        "dayOfEvent": "Friday",
+        "startTimeOfEvent": "19:30",
+        "endTimeOfEvent": "20:30",
+        "timezone": "EST",
+        "discordLink": "https://discord.gg/shameless",
+        "hostName": "Vinnie",
+        "details": "Details",
+        "eventType": "Lapdance Event"
+      }
+    ]
+}
