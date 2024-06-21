@@ -23,9 +23,10 @@ jobs:
     - name: Install dependencies
       run: python -m pip install --upgrade pip
     
-    - name: Update submodules
+    - name: Force update submodules
       run: |
-        git submodule update --remote --rebase
+        git submodule foreach --recursive git fetch
+        git submodule foreach --recursive git checkout origin/$(git config -f .gitmodules submodule.$name.branch || echo master)
 
     - name: Run combine script
       run: python combine_json.py
