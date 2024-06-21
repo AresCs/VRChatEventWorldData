@@ -12,39 +12,6 @@
       "eventType": "Lapdance Event"
     },
     {
-      "eventName": "Shameless - Ongoing123",
-      "dayOfEvent": "Thursday",
-      "startTimeOfEvent": "20:50",
-      "endTimeOfEvent": "21:50",
-      "timezone": "EST",
-      "discordLink": "https://discord.gg/shameless",
-      "hostName": "Rawr",
-      "details": "A fun and lively lapdance event.",
-      "eventType": "Lapdance Event"
-    },
-    {
-      "eventName": "Shameless - End 1",
-      "dayOfEvent": "Thursday",
-      "startTimeOfEvent": "20:50",
-      "endTimeOfEvent": "21:10",
-      "timezone": "EST",
-      "discordLink": "https://discord.gg/shameless",
-      "hostName": "Rawr",
-      "details": "A fun and lively lapdance event.",
-      "eventType": "Lapdance Event"
-    },
-    {
-      "eventName": "Shameless - End 2",
-      "dayOfEvent": "Thursday",
-      "startTimeOfEvent": "20:50",
-      "endTimeOfEvent": "21:12",
-      "timezone": "EST",
-      "discordLink": "https://discord.gg/shameless",
-      "hostName": "Rawr",
-      "details": "A fun and lively lapdance event.",
-      "eventType": "Lapdance Event"
-    },
-    {
       "eventName": "Monstrum",
       "dayOfEvent": "Friday",
       "startTimeOfEvent": "18:00",
