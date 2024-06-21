@@ -1,3 +1,6 @@
 [submodule "Shameless"]
 	path = Shameless
 	url = https://github.com/AresCs/ShamelessEventData.git
+[submodule "Monstrum"]
+	path = Monstrum
+	url = https://github.com/AresCs/MonstrumEventData.git
