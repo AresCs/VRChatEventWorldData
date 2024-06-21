@@ -36,7 +36,6 @@ jobs:
           echo "CHANGES_DETECTED=false" >> $GITHUB_ENV
         else
           echo "CHANGES_DETECTED=true" >> $GITHUB_ENV
-          echo "CHANGES_DETECTED=$CHANGES_DETECTED" >> $GITHUB_ENV
 
     - name: Commit and push changes
       if: env.CHANGES_DETECTED == 'true'
