@@ -12,6 +12,17 @@
       "eventType": "Lapdance Event"
     },
     {
+      "eventName": "Shameless - Ongoing",
+      "dayOfEvent": "Friday",
+      "startTimeOfEvent": "19:30",
+      "endTimeOfEvent": "23:59",
+      "timezone": "EST",
+      "discordLink": "https://discord.gg/shameless",
+      "hostName": "Rawr",
+      "details": "A fun and lively lapdance event.",
+      "eventType": "Lapdance Event"
+    },
+    {
       "eventName": "Monstrum",
       "dayOfEvent": "Friday",
       "startTimeOfEvent": "18:00",
