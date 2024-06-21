@@ -38,7 +38,7 @@ jobs:
           echo "CHANGES_DETECTED=true" >> $GITHUB_ENV
   
     - name: Commit and push changes
-      if: env.CHANGES_DETECTED == 'true'
+      if: steps.check_changes.outputs.CHANGES_DETECTED == 'true'
       run: |
         git commit -m 'Automated combine JSON files'
         git push
@@ -46,5 +46,5 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
     - name: No changes detected
-      if: env.CHANGES_DETECTED == 'false'
+      if: steps.check_changes.outputs.CHANGES_DETECTED == 'false'
       run: echo "There are no updates."
