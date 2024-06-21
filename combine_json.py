@@ -3,7 +3,7 @@ import json
 
 # Define the submodule directories and output file
 submodule_dirs = ['Shameless', 'Monstrum']
-output_file = 'combined_data.json'
+output_file = 'TestData.json'
 
 # Initialize an empty list to hold the events
 combined_events = []
