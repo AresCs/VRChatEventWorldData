@@ -12,7 +12,7 @@
             "eventType": "Lapdance Event"
         },
         {
-            "eventName": "Monstrum - Updated",
+            "eventName": "Monstrum",
             "dayOfEvent": "Friday",
             "startTimeOfEvent": "18:00",
             "endTimeOfEvent": "19:00",
@@ -23,7 +23,7 @@
             "eventType": "Lapdance Event"
         },
         {
-            "eventName": "Monstrum - Test",
+            "eventName": "Monstrum",
             "dayOfEvent": "Wednesday",
             "startTimeOfEvent": "16:00",
             "endTimeOfEvent": "17:00",
@@ -34,7 +34,7 @@
             "eventType": "Lapdance Event"
         },
         {
-            "eventName": "Monstrum - Test",
+            "eventName": "Monstrum",
             "dayOfEvent": "Sunday",
             "startTimeOfEvent": "20:00",
             "endTimeOfEvent": "21:00",
