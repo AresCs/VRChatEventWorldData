@@ -6,7 +6,7 @@ on:
       - 'Shameless/**'
       - 'Monstrum/**'
   schedule:
-    - cron: '1/5 * * * *'  # Run every 5 minutes
+    - cron: '*/5 * * * *'  # Run every 5 minutes
 
 jobs:
   combine-json:
@@ -29,11 +29,21 @@ jobs:
     - name: Run combine script
       run: python combine_json.py
 
+    - name: Check for changes
+      id: check_changes
+      run: |
+        if git diff --exit-code combined_data.json; then
+          echo "No changes detected" > $GITHUB_ENV
+        else
+          echo "Changes detected" > $GITHUB_ENV
+      continue-on-error: true
+
     - name: Commit and push changes
+      if: env.CHANGES_DETECTED != 'No changes detected'
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add TestData.json
+        git add combined_data.json
         git commit -m 'Automated combine JSON files'
         git push
       env:
