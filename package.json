@@ -4,7 +4,8 @@
     "description": "A project to aggregate JSON data from submodules in a VRChat event world data repository.",
     "main": "combine_json.py",
     "scripts": {
-      "start": "python combine_json.py"
+      "start": "python combine_json.py",
+      "test": "python test_combine_json.py"
     },
     "repository": {
       "type": "git",
