@@ -69,8 +69,8 @@
         {
             "eventName": "Club Vicious",
             "dayOfEvent": "Friday",
-            "startTimeOfEvent": "19:00",
-            "endTimeOfEvent": "20:00",
+            "startTimeOfEvent": "22:00",
+            "endTimeOfEvent": "00:00",
             "timezone": "EST",
             "discordLink": "https://discord.gg/clubviciousvrc",
             "hostName": "_VOID_VR & Sodapopvr",
