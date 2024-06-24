@@ -9,40 +9,8 @@
             "discordLink": "https://discord.gg/shameless",
             "hostName": "Vinnie",
             "details": "Details Test",
-            "eventType": "Lapdance Event"
-        },
-        {
-            "eventName": "Monstrum",
-            "dayOfEvent": "Friday",
-            "startTimeOfEvent": "18:00",
-            "endTimeOfEvent": "19:00",
-            "timezone": "EST",
-            "discordLink": "https://discord.gg/monstrum",
-            "hostName": "Brent",
-            "details": "Details",
-            "eventType": "Lapdance Event"
-        },
-        {
-            "eventName": "Monstrum",
-            "dayOfEvent": "Wednesday",
-            "startTimeOfEvent": "16:00",
-            "endTimeOfEvent": "17:00",
-            "timezone": "EST",
-            "discordLink": "https://discord.gg/monstrum",
-            "hostName": "Brent",
-            "details": "Test",
-            "eventType": "Lapdance Event"
-        },
-        {
-            "eventName": "Monstrum",
-            "dayOfEvent": "Sunday",
-            "startTimeOfEvent": "20:00",
-            "endTimeOfEvent": "21:00",
-            "timezone": "EST",
-            "discordLink": "https://discord.gg/monstrum",
-            "hostName": "Brent",
-            "details": "Details",
-            "eventType": "Lapdance Event"
+            "eventType": "Lapdance Event",
+            "eventLogo": "shameless_logo"
         }
     ]
 }
