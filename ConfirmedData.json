@@ -1,0 +1,70 @@
+{
+    "upcomingEvents": [
+        {
+            "eventName": "Shameless Club",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "19:00",
+            "endTimeOfEvent": "20:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/shamelessclub",
+            "hostName": "Shameless Club",
+            "details": "",
+            "eventType": "Lapdance event"
+        },
+        {
+            "eventName": "After Dark (on hiatus)",
+            "dayOfEvent": "Wednesday",
+            "startTimeOfEvent": "22:00",
+            "endTimeOfEvent": "23:00",
+            "timezone": "EST",
+            "discordLink": "https://discord.gg/f2MSeKvTES",
+            "hostName": "ClubAfterLife",
+            "details": "",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "After Dark (on hiatus)",
+            "dayOfEvent": "Sunday",
+            "startTimeOfEvent": "17:00",
+            "endTimeOfEvent": "18:00",
+            "timezone": "EST",
+            "discordLink": "https://discord.gg/f2MSeKvTES",
+            "hostName": "ClubAfterLife",
+            "details": "",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Afterlife",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "19:00",
+            "endTimeOfEvent": "20:00",
+            "timezone": "EST",
+            "discordLink": "https://discord.gg/f2MSeKvTES",
+            "hostName": "ClubAfterLife",
+            "details": "",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Club Astreus",
+            "dayOfEvent": "Thursday",
+            "startTimeOfEvent": "23:00",
+            "endTimeOfEvent": "23:59",
+            "timezone": "EST",
+            "discordLink": "https://discord.gg/VWMNdnyzcn",
+            "hostName": "Club Astreus",
+            "details": "",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Club Astreus",
+            "dayOfEvent": "Sunday",
+            "startTimeOfEvent": "21:30",
+            "endTimeOfEvent": "22:30",
+            "timezone": "EST",
+            "discordLink": "https://discord.gg/VWMNdnyzcn",
+            "hostName": "Club Astreus",
+            "details": "",
+            "eventType": "Lap Dance Event"
+        }
+    ]
+}

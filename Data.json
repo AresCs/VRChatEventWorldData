@@ -375,17 +375,6 @@
             "eventType": ""
         },
         {
-            "eventName": "Aphrodite (on hiatus)",
-            "dayOfEvent": "Tuesday",
-            "startTimeOfEvent": "22:00",
-            "endTimeOfEvent": "23:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
             "eventName": "Astreus",
             "dayOfEvent": "Tuesday",
             "startTimeOfEvent": "21:00",
@@ -511,17 +500,6 @@
             "dayOfEvent": "Wednesday",
             "startTimeOfEvent": "17:00",
             "endTimeOfEvent": "18:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "13th Floor (every other week)",
-            "dayOfEvent": "Wednesday",
-            "startTimeOfEvent": "18:00",
-            "endTimeOfEvent": "19:00",
             "timezone": "EST",
             "discordLink": "",
             "hostName": "",
@@ -1332,17 +1310,6 @@
             "eventType": ""
         },
         {
-            "eventName": "ANKH (on hiatus)",
-            "dayOfEvent": "Friday",
-            "startTimeOfEvent": "20:00",
-            "endTimeOfEvent": "21:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
             "eventName": "Ludicrous (every other week)",
             "dayOfEvent": "Friday",
             "startTimeOfEvent": "20:00",
@@ -1575,17 +1542,6 @@
         },
         {
             "eventName": "Fantasy",
-            "dayOfEvent": "Friday",
-            "startTimeOfEvent": "19:00",
-            "endTimeOfEvent": "20:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "13th Floor",
             "dayOfEvent": "Friday",
             "startTimeOfEvent": "19:00",
             "endTimeOfEvent": "20:00",
