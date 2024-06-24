@@ -9,7 +9,7 @@
             "discordLink": "discord.gg/shamelessclub",
             "hostName": "Shameless Club",
             "details": "",
-            "eventType": "Lapdance event"
+            "eventType": "Lap Dance Event"
         },
         {
             "eventName": "After Dark (on hiatus)",
@@ -63,6 +63,17 @@
             "timezone": "EST",
             "discordLink": "https://discord.gg/VWMNdnyzcn",
             "hostName": "Club Astreus",
+            "details": "",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Club Vicious",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "19:00",
+            "endTimeOfEvent": "20:00",
+            "timezone": "EST",
+            "discordLink": "https://discord.gg/clubviciousvrc",
+            "hostName": "_VOID_VR & Sodapopvr",
             "details": "",
             "eventType": "Lap Dance Event"
         }
