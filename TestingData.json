@@ -9,7 +9,7 @@
             "discordLink": "https://discord.gg/shameless",
             "hostName": "Host1",
             "eventType": "LapDance",
-            "eventLogo": "shameless_logo"
+            "eventLogoUrl": "https://raw.githubusercontent.com/AresCs/VRChatEventWorldData/main/ClubLogos/shameless_logo.png"
         }
     ]
 }
