@@ -129,8 +129,8 @@
             "timezone": "EST",
             "discordLink": "discord.gg/dgen",
             "hostName": "D-Gen Club",
-            "details": "ID Verification",
-            "eventType": "DJ Event"
+            "details": "ID Verification - Discord Event",
+            "eventType": "Discord Community Event"
         },
         {
             "eventName": "D-Gen - Whiskey Wednesday",
@@ -141,7 +141,7 @@
             "discordLink": "discord.gg/dgen",
             "hostName": "D-Gen Club",
             "details": "ID Verification",
-            "eventType": "Drinking Event"
+            "eventType": "DJ Event"
         },
         {
             "eventName": "D-Gen - Fridays",
@@ -218,6 +218,17 @@
             "discordLink": "discord.com/invite/club-elementum",
             "hostName": "Elementum Host",
             "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Forsaken Kingdom",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "21:00",
+            "endTimeOfEvent": "22:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/theforsakenkingdom",
+            "hostName": "ForsakenKingdom",
+            "details": "Discord / Date of Birth Verification",
             "eventType": "Lap Dance Event"
         }
     ]
