@@ -1,16 +1,6 @@
 {
     "upcomingEvents": [
-        {
-            "eventName": "Dark Burlesque",
-            "dayOfEvent": "Monday",
-            "startTimeOfEvent": "15:00",
-            "endTimeOfEvent": "16:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
+        
         {
             "eventName": "Temptation",
             "dayOfEvent": "Monday",
@@ -562,17 +552,6 @@
             "eventType": ""
         },
         {
-            "eventName": "Armies (every other week)",
-            "dayOfEvent": "Wednesday",
-            "startTimeOfEvent": "20:00",
-            "endTimeOfEvent": "21:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
             "eventName": "Gothic Kingdom",
             "dayOfEvent": "Wednesday",
             "startTimeOfEvent": "20:00",
@@ -728,17 +707,6 @@
         },
         {
             "eventName": "Lavender's Poison",
-            "dayOfEvent": "Wednesday",
-            "startTimeOfEvent": "19:00",
-            "endTimeOfEvent": "20:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "Dark Burlesque",
             "dayOfEvent": "Wednesday",
             "startTimeOfEvent": "19:00",
             "endTimeOfEvent": "20:00",
@@ -1245,28 +1213,6 @@
         },
         {
             "eventName": "Malevolence",
-            "dayOfEvent": "Friday",
-            "startTimeOfEvent": "18:00",
-            "endTimeOfEvent": "19:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "D-Gen",
-            "dayOfEvent": "Friday",
-            "startTimeOfEvent": "18:00",
-            "endTimeOfEvent": "19:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "Elementum",
             "dayOfEvent": "Friday",
             "startTimeOfEvent": "18:00",
             "endTimeOfEvent": "19:00",
@@ -1849,17 +1795,6 @@
             "eventType": ""
         },
         {
-            "eventName": "Armies",
-            "dayOfEvent": "Saturday",
-            "startTimeOfEvent": "18:00",
-            "endTimeOfEvent": "19:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
             "eventName": "Project Eden",
             "dayOfEvent": "Saturday",
             "startTimeOfEvent": "20:00",
@@ -2106,17 +2041,6 @@
             "dayOfEvent": "Saturday",
             "startTimeOfEvent": "19:00",
             "endTimeOfEvent": "20:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "D-Gen",
-            "dayOfEvent": "Saturday",
-            "startTimeOfEvent": "22:00",
-            "endTimeOfEvent": "23:00",
             "timezone": "EST",
             "discordLink": "",
             "hostName": "",
@@ -2675,17 +2599,6 @@
         },
         {
             "eventName": "Phoenix Palace",
-            "dayOfEvent": "Sunday",
-            "startTimeOfEvent": "21:00",
-            "endTimeOfEvent": "22:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "Asylum",
             "dayOfEvent": "Sunday",
             "startTimeOfEvent": "21:00",
             "endTimeOfEvent": "22:00",

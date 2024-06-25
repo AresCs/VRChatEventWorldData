@@ -8,7 +8,7 @@
             "timezone": "EST",
             "discordLink": "discord.gg/shamelessclub",
             "hostName": "Shameless Club",
-            "details": "",
+            "details": "Discord Verification",
             "eventType": "Lap Dance Event"
         },
         {
@@ -17,9 +17,9 @@
             "startTimeOfEvent": "22:00",
             "endTimeOfEvent": "23:00",
             "timezone": "EST",
-            "discordLink": "https://discord.gg/f2MSeKvTES",
+            "discordLink": "discord.gg/f2MSeKvTES",
             "hostName": "ClubAfterLife",
-            "details": "",
+            "details": "ID Verification",
             "eventType": "Lap Dance Event"
         },
         {
@@ -28,9 +28,9 @@
             "startTimeOfEvent": "17:00",
             "endTimeOfEvent": "18:00",
             "timezone": "EST",
-            "discordLink": "https://discord.gg/f2MSeKvTES",
+            "discordLink": "discord.gg/f2MSeKvTES",
             "hostName": "ClubAfterLife",
-            "details": "",
+            "details": "ID Verification",
             "eventType": "Lap Dance Event"
         },
         {
@@ -39,9 +39,9 @@
             "startTimeOfEvent": "19:00",
             "endTimeOfEvent": "20:00",
             "timezone": "EST",
-            "discordLink": "https://discord.gg/f2MSeKvTES",
+            "discordLink": "discord.gg/f2MSeKvTES",
             "hostName": "ClubAfterLife",
-            "details": "",
+            "details": "ID Verification",
             "eventType": "Lap Dance Event"
         },
         {
@@ -50,9 +50,9 @@
             "startTimeOfEvent": "23:00",
             "endTimeOfEvent": "23:59",
             "timezone": "EST",
-            "discordLink": "https://discord.gg/VWMNdnyzcn",
+            "discordLink": "discord.gg/VWMNdnyzcn",
             "hostName": "Club Astreus",
-            "details": "",
+            "details": "ID Verification",
             "eventType": "Lap Dance Event"
         },
         {
@@ -61,9 +61,9 @@
             "startTimeOfEvent": "21:30",
             "endTimeOfEvent": "22:30",
             "timezone": "EST",
-            "discordLink": "https://discord.gg/VWMNdnyzcn",
+            "discordLink": "discord.gg/VWMNdnyzcn",
             "hostName": "Club Astreus",
-            "details": "",
+            "details": "ID Verification",
             "eventType": "Lap Dance Event"
         },
         {
@@ -72,9 +72,141 @@
             "startTimeOfEvent": "22:00",
             "endTimeOfEvent": "00:00",
             "timezone": "EST",
-            "discordLink": "https://discord.gg/clubviciousvrc",
+            "discordLink": "discord.gg/clubviciousvrc",
             "hostName": "_VOID_VR & Sodapopvr",
-            "details": "",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Avinity",
+            "dayOfEvent": "Thursday",
+            "startTimeOfEvent": "22:00",
+            "endTimeOfEvent": "23:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/avinityvr",
+            "hostName": "Avinity (Group)",
+            "details": "Discord Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Asylum",
+            "dayOfEvent": "Sunday",
+            "startTimeOfEvent": "22:00",
+            "endTimeOfEvent": "23:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/asylumvr",
+            "hostName": "ASYLUM Host",
+            "details": "Discord / Date of Birth Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Armies",
+            "dayOfEvent": "Wednesday",
+            "startTimeOfEvent": "22:00",
+            "endTimeOfEvent": "23:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/nKnMfdBTcg",
+            "hostName": "clubarmiesvrc",
+            "details": "ID Verification",
+            "eventType": "Community Event"
+        },
+        {
+            "eventName": "Armies",
+            "dayOfEvent": "Saturday",
+            "startTimeOfEvent": "22:00",
+            "endTimeOfEvent": "23:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/nKnMfdBTcg",
+            "hostName": "clubarmiesvrc",
+            "details": "ID Verification",
+            "eventType": "Community Event"
+        },
+        {
+            "eventName": "D-Gen",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "20:00",
+            "endTimeOfEvent": "21:30",
+            "timezone": "EST",
+            "discordLink": "discord.gg/dgen",
+            "hostName": "D-Gen Club",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "D-Gen",
+            "dayOfEvent": "Saturday",
+            "startTimeOfEvent": "23:00",
+            "endTimeOfEvent": "00:30",
+            "timezone": "EST",
+            "discordLink": "discord.gg/dgen",
+            "hostName": "D-Gen Club",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "D-Gen",
+            "dayOfEvent": "Tuesday",
+            "startTimeOfEvent": "19:00",
+            "endTimeOfEvent": "22:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/dgen",
+            "hostName": "D-Gen Club",
+            "details": "ID Verification",
+            "eventType": "DJ Event"
+        },
+        {
+            "eventName": "Dark Burlesque",
+            "dayOfEvent": "Monday",
+            "startTimeOfEvent": "15:00",
+            "endTimeOfEvent": "16:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/darkburlesquelapclub",
+            "hostName": "ClubDB",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Dark Burlesque",
+            "dayOfEvent": "Wednesday",
+            "startTimeOfEvent": "17:00",
+            "endTimeOfEvent": "18:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/darkburlesquelapclub",
+            "hostName": "ClubDB",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Dark Burlesque",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "18:00",
+            "endTimeOfEvent": "19:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/darkburlesquelapclub",
+            "hostName": "ClubDB",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Dark Burlesque - Learning Academy",
+            "dayOfEvent": "Thursday",
+            "startTimeOfEvent": "19:00",
+            "endTimeOfEvent": "20:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/darkburlesquelapclub",
+            "hostName": "ClubDB",
+            "details": "ID Verification",
+            "eventType": "Community Event"
+        },
+        {
+            "eventName": "Club Elementum",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "19:00",
+            "endTimeOfEvent": "20:00",
+            "timezone": "EST",
+            "discordLink": "discord.com/invite/club-elementum",
+            "hostName": "Elementum Host",
+            "details": "ID Verification",
             "eventType": "Lap Dance Event"
         }
     ]
