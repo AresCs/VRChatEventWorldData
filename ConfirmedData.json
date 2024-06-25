@@ -122,7 +122,29 @@
             "eventType": "Community Event"
         },
         {
-            "eventName": "D-Gen",
+            "eventName": "D-Gen - Toke Tuesday",
+            "dayOfEvent": "Tuesday",
+            "startTimeOfEvent": "19:00",
+            "endTimeOfEvent": "22:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/dgen",
+            "hostName": "D-Gen Club",
+            "details": "ID Verification",
+            "eventType": "DJ Event"
+        },
+        {
+            "eventName": "D-Gen - Whiskey Wednesday",
+            "dayOfEvent": "Wednesday",
+            "startTimeOfEvent": "20:00",
+            "endTimeOfEvent": "04:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/dgen",
+            "hostName": "D-Gen Club",
+            "details": "ID Verification",
+            "eventType": "Drinking Event"
+        },
+        {
+            "eventName": "D-Gen - Fridays",
             "dayOfEvent": "Friday",
             "startTimeOfEvent": "20:00",
             "endTimeOfEvent": "21:30",
@@ -133,7 +155,7 @@
             "eventType": "Lap Dance Event"
         },
         {
-            "eventName": "D-Gen",
+            "eventName": "D-Gen - Saturdays",
             "dayOfEvent": "Saturday",
             "startTimeOfEvent": "23:00",
             "endTimeOfEvent": "00:30",
@@ -142,17 +164,6 @@
             "hostName": "D-Gen Club",
             "details": "ID Verification",
             "eventType": "Lap Dance Event"
-        },
-        {
-            "eventName": "D-Gen",
-            "dayOfEvent": "Tuesday",
-            "startTimeOfEvent": "19:00",
-            "endTimeOfEvent": "22:00",
-            "timezone": "EST",
-            "discordLink": "discord.gg/dgen",
-            "hostName": "D-Gen Club",
-            "details": "ID Verification",
-            "eventType": "DJ Event"
         },
         {
             "eventName": "Dark Burlesque",
