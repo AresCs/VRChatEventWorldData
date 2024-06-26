@@ -230,6 +230,149 @@
             "hostName": "ForsakenKingdom",
             "details": "Discord / Date of Birth Verification",
             "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Celestial",
+            "dayOfEvent": "Thursday",
+            "startTimeOfEvent": "15:00",
+            "endTimeOfEvent": "16:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/YjEhcg845b",
+            "hostName": "Club Celestia",
+            "details": "Discord / Date of Birth Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Crystal Rose",
+            "dayOfEvent": "Tuesday",
+            "startTimeOfEvent": "14:30",
+            "endTimeOfEvent": "15:30",
+            "timezone": "EST",
+            "discordLink": "discord.gg/crystalrose",
+            "hostName": "clubcrystalrose",
+            "details": "Discord / Date of Birth Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Crystal Rose",
+            "dayOfEvent": "Saturday",
+            "startTimeOfEvent": "21:00",
+            "endTimeOfEvent": "22:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/crystalrose",
+            "hostName": "clubcrystalrose",
+            "details": "Discord / Date of Birth Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "AkoNya",
+            "dayOfEvent": "Tuesday",
+            "startTimeOfEvent": "18:00",
+            "endTimeOfEvent": "19:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/pv6bdZDYJ8 ",
+            "hostName": "Adilia",
+            "details": "Discord Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "AkoNya",
+            "dayOfEvent": "Sunday",
+            "startTimeOfEvent": "17:00",
+            "endTimeOfEvent": "18:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/pv6bdZDYJ8 ",
+            "hostName": "Adilia",
+            "details": "Discord Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Amphitrite",
+            "dayOfEvent": "Saturday",
+            "startTimeOfEvent": "20:00",
+            "endTimeOfEvent": "21:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/amphitrite",
+            "hostName": "Club Amphitrite",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Great Hall",
+            "dayOfEvent": "Wednesday",
+            "startTimeOfEvent": "22:00",
+            "endTimeOfEvent": "23:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/greathall",
+            "hostName": "The Great Host",
+            "details": "Discord Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Great Hall",
+            "dayOfEvent": "Saturday",
+            "startTimeOfEvent": "22:00",
+            "endTimeOfEvent": "23:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/greathall",
+            "hostName": "The Great Host",
+            "details": "Discord Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Keys to Hell - Thirsty Thursday",
+            "dayOfEvent": "Thursday",
+            "startTimeOfEvent": "22:00",
+            "endTimeOfEvent": "23:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/keystohell",
+            "hostName": "KeysToHellHost",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Keys to Hell - Sexy Saturday",
+            "dayOfEvent": "Saturday",
+            "startTimeOfEvent": "22:00",
+            "endTimeOfEvent": "23:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/keystohell",
+            "hostName": "KeysToHellHost",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Keys to Hell - FBT Sunday",
+            "dayOfEvent": "Sunday",
+            "startTimeOfEvent": "23:30",
+            "endTimeOfEvent": "00:30",
+            "timezone": "EST",
+            "discordLink": "discord.gg/keystohell",
+            "hostName": "KeysToHellHost",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Loading Sensations",
+            "dayOfEvent": "Tuesday",
+            "startTimeOfEvent": "22:00",
+            "endTimeOfEvent": "23:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/gFeQ4BEnrb",
+            "hostName": "Club LS",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Loading Sensations",
+            "dayOfEvent": "Sunday",
+            "startTimeOfEvent": "22:00",
+            "endTimeOfEvent": "23:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/gFeQ4BEnrb",
+            "hostName": "Club LS",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
         }
     ]
 }

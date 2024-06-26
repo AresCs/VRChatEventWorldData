@@ -266,17 +266,6 @@
             "eventType": ""
         },
         {
-            "eventName": "Crystal Rose",
-            "dayOfEvent": "Tuesday",
-            "startTimeOfEvent": "18:00",
-            "endTimeOfEvent": "19:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
             "eventName": "Corrupted Creatures",
             "dayOfEvent": "Tuesday",
             "startTimeOfEvent": "19:00",
@@ -322,17 +311,6 @@
         },
         {
             "eventName": "Atlantis",
-            "dayOfEvent": "Tuesday",
-            "startTimeOfEvent": "21:00",
-            "endTimeOfEvent": "22:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "Loading Sensations",
             "dayOfEvent": "Tuesday",
             "startTimeOfEvent": "21:00",
             "endTimeOfEvent": "22:00",
@@ -453,17 +431,6 @@
             "eventType": ""
         },
         {
-            "eventName": "AkoNya",
-            "dayOfEvent": "Tuesday",
-            "startTimeOfEvent": "19:00",
-            "endTimeOfEvent": "20:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
             "eventName": "Cocktail Hour",
             "dayOfEvent": "Tuesday",
             "startTimeOfEvent": "23:00",
@@ -520,17 +487,6 @@
         },
         {
             "eventName": "Black Jack NA",
-            "dayOfEvent": "Wednesday",
-            "startTimeOfEvent": "20:00",
-            "endTimeOfEvent": "21:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "Great Hall",
             "dayOfEvent": "Wednesday",
             "startTimeOfEvent": "20:00",
             "endTimeOfEvent": "21:00",
@@ -629,17 +585,6 @@
             "eventType": ""
         },
         {
-            "eventName": "Virtual Pantheon Iliad",
-            "dayOfEvent": "Wednesday",
-            "startTimeOfEvent": "21:00",
-            "endTimeOfEvent": "22:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
             "eventName": "Red Cloud",
             "dayOfEvent": "Wednesday",
             "startTimeOfEvent": "21:00",
@@ -685,17 +630,6 @@
         },
         {
             "eventName": "After Dark (on hiatus)",
-            "dayOfEvent": "Wednesday",
-            "startTimeOfEvent": "22:00",
-            "endTimeOfEvent": "23:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "Gehenna",
             "dayOfEvent": "Wednesday",
             "startTimeOfEvent": "22:00",
             "endTimeOfEvent": "23:00",
@@ -754,17 +688,6 @@
             "dayOfEvent": "Thursday",
             "startTimeOfEvent": "17:00",
             "endTimeOfEvent": "18:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "Celestial",
-            "dayOfEvent": "Thursday",
-            "startTimeOfEvent": "18:00",
-            "endTimeOfEvent": "19:00",
             "timezone": "EST",
             "discordLink": "",
             "hostName": "",
@@ -949,17 +872,6 @@
         },
         {
             "eventName": "Moonlight Haven",
-            "dayOfEvent": "Thursday",
-            "startTimeOfEvent": "22:00",
-            "endTimeOfEvent": "23:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "Keys to Hell",
             "dayOfEvent": "Thursday",
             "startTimeOfEvent": "22:00",
             "endTimeOfEvent": "23:00",
@@ -1564,17 +1476,6 @@
             "eventType": ""
         },
         {
-            "eventName": "Celestial (monthly)",
-            "dayOfEvent": "Saturday",
-            "startTimeOfEvent": "16:00",
-            "endTimeOfEvent": "17:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
             "eventName": "Chateau",
             "dayOfEvent": "Saturday",
             "startTimeOfEvent": "16:00",
@@ -1839,17 +1740,6 @@
             "eventType": ""
         },
         {
-            "eventName": "Crystal Rose",
-            "dayOfEvent": "Saturday",
-            "startTimeOfEvent": "20:00",
-            "endTimeOfEvent": "21:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
             "eventName": "Glitch",
             "dayOfEvent": "Saturday",
             "startTimeOfEvent": "19:00",
@@ -2015,32 +1905,10 @@
             "eventType": ""
         },
         {
-            "eventName": "Virtual Pantheon Odyssey NA",
-            "dayOfEvent": "Saturday",
-            "startTimeOfEvent": "21:00",
-            "endTimeOfEvent": "22:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
             "eventName": "Mauvais Garçon",
             "dayOfEvent": "Saturday",
             "startTimeOfEvent": "19:00",
             "endTimeOfEvent": "20:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "Great Hall",
-            "dayOfEvent": "Saturday",
-            "startTimeOfEvent": "22:00",
-            "endTimeOfEvent": "23:00",
             "timezone": "EST",
             "discordLink": "",
             "hostName": "",
@@ -2063,17 +1931,6 @@
             "dayOfEvent": "Saturday",
             "startTimeOfEvent": "20:00",
             "endTimeOfEvent": "21:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "Amphitrite",
-            "dayOfEvent": "Saturday",
-            "startTimeOfEvent": "21:00",
-            "endTimeOfEvent": "22:00",
             "timezone": "EST",
             "discordLink": "",
             "hostName": "",
@@ -2488,17 +2345,6 @@
             "eventType": ""
         },
         {
-            "eventName": "AkoNya",
-            "dayOfEvent": "Sunday",
-            "startTimeOfEvent": "18:00",
-            "endTimeOfEvent": "19:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
             "eventName": "Polaris",
             "dayOfEvent": "Sunday",
             "startTimeOfEvent": "21:00",
@@ -2532,17 +2378,6 @@
             "eventType": ""
         },
         {
-            "eventName": "Loading Sensations (Mansion)",
-            "dayOfEvent": "Sunday",
-            "startTimeOfEvent": "22:00",
-            "endTimeOfEvent": "23:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
             "eventName": "Abyss",
             "dayOfEvent": "Sunday",
             "startTimeOfEvent": "20:00",
@@ -2569,17 +2404,6 @@
             "dayOfEvent": "Sunday",
             "startTimeOfEvent": "21:00",
             "endTimeOfEvent": "22:00",
-            "timezone": "EST",
-            "discordLink": "",
-            "hostName": "",
-            "details": "",
-            "eventType": ""
-        },
-        {
-            "eventName": "Loading Sensations (Mansion)",
-            "dayOfEvent": "Sunday",
-            "startTimeOfEvent": "22:00",
-            "endTimeOfEvent": "23:00",
             "timezone": "EST",
             "discordLink": "",
             "hostName": "",
