@@ -207,7 +207,7 @@
             "discordLink": "discord.gg/darkburlesquelapclub",
             "hostName": "ClubDB",
             "details": "ID Verification",
-            "eventType": "Community Event"
+            "eventType": "VRC Community Event"
         },
         {
             "eventName": "Club Elementum",
@@ -364,15 +364,92 @@
             "eventType": "Lap Dance Event"
         },
         {
-            "eventName": "Loading Sensations",
-            "dayOfEvent": "Sunday",
-            "startTimeOfEvent": "22:00",
-            "endTimeOfEvent": "23:00",
+            "eventName": "Testing LPE",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "13:00",
+            "endTimeOfEvent": "19:00",
             "timezone": "EST",
-            "discordLink": "discord.gg/gFeQ4BEnrb",
-            "hostName": "Club LS",
+            "discordLink": "discord.gg/test",
+            "hostName": "test",
             "details": "ID Verification",
             "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Testing DJ Event",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "13:00",
+            "endTimeOfEvent": "19:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/test",
+            "hostName": "test",
+            "details": "ID Verification",
+            "eventType": "DJ Event"
+        },
+        {
+            "eventName": "Testing Discord",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "13:00",
+            "endTimeOfEvent": "19:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/test",
+            "hostName": "test",
+            "details": "ID Verification",
+            "eventType": "Discord Community Event"
+        },
+        {
+            "eventName": "Testing VRC",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "13:00",
+            "endTimeOfEvent": "19:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/test",
+            "hostName": "test",
+            "details": "ID Verification",
+            "eventType": "VRC Community Event"
+        },
+        {
+            "eventName": "Testing NSFW",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "13:00",
+            "endTimeOfEvent": "19:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/test",
+            "hostName": "test",
+            "details": "ID Verification",
+            "eventType": "NSFW Event"
+        },
+        {
+            "eventName": "Testing 18+",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "13:00",
+            "endTimeOfEvent": "19:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/test",
+            "hostName": "test",
+            "details": "ID Verification",
+            "eventType": "18+ Event"
+        },
+        {
+            "eventName": "Testing Movie",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "13:00",
+            "endTimeOfEvent": "19:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/test",
+            "hostName": "test",
+            "details": "ID Verification",
+            "eventType": "Movie Night"
+        },
+        {
+            "eventName": "Testing Drinking",
+            "dayOfEvent": "Friday",
+            "startTimeOfEvent": "13:00",
+            "endTimeOfEvent": "19:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/test",
+            "hostName": "test",
+            "details": "ID Verification",
+            "eventType": "Drinking Event"
         }
     ]
 }
