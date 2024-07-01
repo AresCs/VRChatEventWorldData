@@ -364,6 +364,39 @@
             "eventType": "Lap Dance Event"
         },
         {
+            "eventName": "HELL/BOUND",
+            "dayOfEvent": "Monday",
+            "startTimeOfEvent": "20:00",
+            "endTimeOfEvent": "21:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/hellbound",
+            "hostName": "",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Club Incubus",
+            "dayOfEvent": "Thursday",
+            "startTimeOfEvent": "17:00",
+            "endTimeOfEvent": "18:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/incubusvr",
+            "hostName": "IncubusHost",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
+            "eventName": "Club Incubus",
+            "dayOfEvent": "Sunday",
+            "startTimeOfEvent": "20:00",
+            "endTimeOfEvent": "21:00",
+            "timezone": "EST",
+            "discordLink": "discord.gg/incubusvr",
+            "hostName": "IncubusHost",
+            "details": "ID Verification",
+            "eventType": "Lap Dance Event"
+        },
+        {
             "eventName": "Testing LPE",
             "dayOfEvent": "Friday",
             "startTimeOfEvent": "13:00",
